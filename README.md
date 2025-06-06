@@ -1,8 +1,3 @@
-# amazon-price-tracker
-Scraper con Selenium que rastrea precios en Amazon y envía alertas por WhatsApp
-
-# 🛒 Amazon Price Tracker + WhatsApp Notifier
-
 Este proyecto es un **scraper en Python** que rastrea los precios de productos en Amazon y te notifica por **WhatsApp** cuando detecta un cambio significativo.
 
 ## ✅ Características
