@@ -17,6 +17,7 @@ Este proyecto es un **scraper en Python** que rastrea los precios de productos e
 amazon-price-tracker/
 ├── scraper.py
 ├── notifier.py
+├── test_notifier.py
 ├── main.py
 ├── iniciar_perfil_whatsapp.bat
 ├── requirements.txt
